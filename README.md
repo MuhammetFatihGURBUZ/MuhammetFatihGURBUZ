@@ -10,10 +10,13 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Selam! Ben Muhammet Fatih Gürbüz
 
-🎓 Selçuk Üniversitesi - Bilgisayar Mühendisliği öğrencisiyim.
-💻 Python ve C#  ile projeler geliştiriyorum. 
+🎓 Selçuk Üniversitesi - Bilgisayar Mühendisliği öğrencisiyim.  
+
+💻 Python ve C# ile projeler geliştiriyorum.  
+
 📊 Yapay zeka, görüntü işleme ve CNN modelleri üzerine çalışıyorum.  
-🧠 Sağlıkta derin öğrenme: **böbrek tümörü sınıflandırma** projesi geliştiriyorum.
+
+🧠 Sağlıkta derin öğrenme: **böbrek tümörü** projesini geliştiriyorum. 
 
 ---
 
