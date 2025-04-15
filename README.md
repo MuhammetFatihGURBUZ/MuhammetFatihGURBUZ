@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Bana Ulaş
 
-- 📧 **fatihmfg23@gmail.com** (mailto:fatihmfg23@gmail.com) 
+- 📧 [fatihmfg23@gmail.com](mailto:fatihmfg23@gmail.com)
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/muhammet-fatih-gurbuz-869264222/)  
 
